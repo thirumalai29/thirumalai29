@@ -26,9 +26,10 @@ Here are some of my highlighted projects:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirumalai29&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirumalai29&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=thirumalai29&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalai29&layout=compact&theme=tokyonight)
+
 
 ---
 
