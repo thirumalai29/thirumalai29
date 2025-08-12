@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Thirumalai Vasan
+# 👋 Hi, I’m Thirumalaivasan
 
 I’m a passionate **frontend developer** skilled in **HTML, CSS, JavaScript, Bootstrap**, with backend experience in **Java (JSP, Servlets)** and **MySQL**.  
 Currently exploring **React** and **Spring Boot** to grow into a full-stack developer while building responsive, user-friendly applications.
@@ -26,15 +26,15 @@ Here are some of my highlighted projects:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirumalai29&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thirumalai29&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalai29&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thirumalaivasan-k-r-06aa7b290)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirumalai2775@gmail.com)
 
 ---
 
