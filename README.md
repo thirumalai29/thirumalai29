@@ -33,7 +33,7 @@ Here are some of my highlighted projects:
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thirumalaivasan-k-r-06aa7b290)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/thirumalaivasan-k-r-06aa7b290  
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirumalai2775@gmail.com)
 
 ---
